@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Ekzamen.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+C:\Users\Shalim\source\repos\Ekzamen\Ekzamen\Source.cpp(2025,12): warning C4101: dir: неиспользованная локальная переменная
+C:\Users\Shalim\source\repos\Ekzamen\Ekzamen\Source.cpp(2242,12): warning C4101: dir: неиспользованная локальная переменная
+C:\Users\Shalim\source\repos\Ekzamen\Ekzamen\Source.cpp(2447,8): warning C4101: coord: неиспользованная локальная переменная
+  Ekzamen.vcxproj -> C:\Users\Shalim\source\repos\Ekzamen\x64\Debug\Battle_ship.exe
